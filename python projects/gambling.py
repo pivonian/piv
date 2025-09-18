@@ -1,5 +1,6 @@
 import random
 import json
+import subprocess
 
 ## Checks for config.json file
 
@@ -11,7 +12,7 @@ except FileNotFoundError:
         "chance": 3,
         "money": 100,
         "first": 1,
-        "fmoney": 100,
+        "fmoney": 100, 
         "nuggets": 0
     }
     with open('config.json', 'w') as f:
@@ -90,17 +91,11 @@ def coins():
         money = config["money"] # sets default money value
 
     while True:
-        betamount = input('Input bet amount: $')
+        betamount = float(input('Input bet amount: $'))
         side = input('heads or tails? ')
         money = config["money"]
 
-        if betamount != betamount.isnumeric() and betamount.lower() == 'check':
-            print('You have $' + str(money))
-
-        if betamount.isdigit():
-            betamount = float(betamount)
-
-        if betamount.isnumeric() and float(betamount) > money:
+        if betamount >= float(money):
             print('Please enter a valid amount.')
             continue
         break
@@ -134,13 +129,19 @@ def coins():
 
 def homepage():
     print(' ')
-    game = input('Please choose a game: Slots(1), Coinflip(2) or Exit(3): ')
+    game = input('Please choose a game: Slots(1), Coinflip(2) or Chicken Counter(3) or Blackjack(4) or Exit(5): ')
 
     if game.lower() in ['slots', '1']:
         slotmachine()
     elif game.lower() in ['coinflip', 'coin flip', '2', 'coins', 'coin']:
         coins()
-    elif game.lower() in ['exit', '', '3']:
+    elif game.lower() in ['chickens', 'chicken counter', 'chicken count', '3']:
+        subprocess.run(["python", "chicken-counter.py"])
+        homepage()  # return to menu afterwards if you want
+    elif game.lower() in ['blackjack', '21', '4']:
+        subprocess.run(["python", "blackjack.py"])
+        homepage()  # return to menu afterwards if you want
+    elif game.lower() in ['exit', '', '5']:
         print('thanks for playing!')
         return
             
