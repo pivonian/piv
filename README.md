@@ -9,5 +9,5 @@ I am Pivonian a 13 year old indie game developer, I am working on several projec
 |EaW Clone   |Incomplete |Python   |Panda3d  |
 |[Games on Github](https://pivonian.github.io/gamesongithub/)   |Complete |HTML,CSS,JS   |N/A  |
 |Sectorfall   |Incomplete |C++,Blueprints   |Unreal Engine  |
-|PyGamble   |Incomplete |Python   |N/A  |
-|Pylate   |Incomplete |Python   |N/A  |
+|PyGamble   |Complete |Python   |N/A  |
+|Pylate   |Complete |Python   |N/A  |
