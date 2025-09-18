@@ -2,8 +2,8 @@ import random
 
 cardTotal = 0
 dealer = random.randint(1, 13)
-
 cardTotal = random.randint(1, 13) + random.randint(1, 13)
+
 while True:
     if cardTotal >= 21:
         print('Bust!')
