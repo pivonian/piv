@@ -1,5 +1,8 @@
 # PIVONIAN
 
+## About Me
+I am Pivonian a 13 year old indie game developer, I am working on several projects and am working to start my own company.
+
 |# Project     |# Status     |# Lang     |# Libs     |
 |------------|-----------|---------|---------|
 |EaW Clone   |Incomplete |Python   |Panda3d  |
