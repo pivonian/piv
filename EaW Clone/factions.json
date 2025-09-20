@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Empire",
+        "planets": [],
+        "colour": "#5AAB24",
+        "playable": true
+    },
+    {
+        "name": "Rebellion",
+        "planets": [],
+        "colour": "#F7B119",
+        "playable": true
+    },
+    {
+        "name": "Hutt",
+        "planets": [],
+        "colour": "#A569BD",
+        "playable": false
+    }
+]

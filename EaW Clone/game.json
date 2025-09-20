@@ -1,0 +1,6 @@
+{
+    "difficulty": 1,
+    "maxShipCount": 100,
+    "factions": ["Empire", "Rebelion", "Hutt"],
+    "map": 1
+}

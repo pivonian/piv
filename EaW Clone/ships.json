@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Imperial Star Destroyer I",
+        "attack": 230,
+        "defence": 1350,
+        "crewcost": 25,
+        "cost": 40000
+    },
+    {
+        "name": "Imperial Star Destroyer II",
+        "attack": 260,
+        "defence": 1450,
+        "crewcost": 28,
+        "cost": 45000
+    },
+    {
+        "name": "Tector-class Star Destroyer",
+        "attack": 280,
+        "defence": 1600,
+        "crewcost": 30,
+        "cost": 52000
+    },
+    {
+        "name": "Victory I-class Star Destroyer",
+        "attack": 160,
+        "defence": 950,
+        "crewcost": 15,
+        "cost": 22000
+    },
+    {
+        "name": "Victory II-class Star Destroyer",
+        "attack": 175,
+        "defence": 1000,
+        "crewcost": 16,
+        "cost": 25000
+    },
+    {
+        "name": "Nebulon-B Frigate",
+        "attack": 80,
+        "defence": 400,
+        "crewcost": 10,
+        "cost": 12000
+    },
+    {
+        "name": "CR90 Corvette",
+        "attack": 50,
+        "defence": 250,
+        "crewcost": 6,
+        "cost": 6000
+    },
+    {
+        "name": "Mon Calamari Cruiser MC80",
+        "attack": 210,
+        "defence": 1400,
+        "crewcost": 22,
+        "cost": 43000
+    },
+    {
+        "name": "Mon Calamari Cruiser MC75",
+        "attack": 190,
+        "defence": 1200,
+        "crewcost": 20,
+        "cost": 38000
+    },
+    {
+        "name": "Dreadnaught-class Heavy Cruiser",
+        "attack": 120,
+        "defence": 800,
+        "crewcost": 12,
+        "cost": 17000
+    },
+    {
+        "name": "Carrack Cruiser",
+        "attack": 90,
+        "defence": 500,
+        "crewcost": 9,
+        "cost": 14000
+    },
+    {
+        "name": "MC40 Light Cruiser",
+        "attack": 110,
+        "defence": 650,
+        "crewcost": 11,
+        "cost": 15000
+    },
+    {
+        "name": "Broadside Cruiser",
+        "attack": 200,
+        "defence": 400,
+        "crewcost": 14,
+        "cost": 18000
+    },
+    {
+        "name": "Venator-class Star Destroyer",
+        "attack": 190,
+        "defence": 1100,
+        "crewcost": 18,
+        "cost": 30000
+    },
+    {
+        "name": "Acclamator-class Assault Ship",
+        "attack": 140,
+        "defence": 700,
+        "crewcost": 13,
+        "cost": 16000
+    },
+    {
+        "name": "Providence-class Dreadnought",
+        "attack": 200,
+        "defence": 1300,
+        "crewcost": 20,
+        "cost": 35000
+    },
+    {
+        "name": "Recusant-class Destroyer",
+        "attack": 160,
+        "defence": 900,
+        "crewcost": 15,
+        "cost": 21000
+    },
+    {
+        "name": "Munificent-class Frigate",
+        "attack": 120,
+        "defence": 650,
+        "crewcost": 12,
+        "cost": 16000
+    },
+    {
+        "name": "Lucrehulk-class Battleship",
+        "attack": 250,
+        "defence": 2000,
+        "crewcost": 35,
+        "cost": 60000
+    }
+]

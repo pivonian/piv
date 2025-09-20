@@ -1,0 +1,352 @@
+[
+    {
+        "name": "Abregado Rae",
+        "creditsOutput": 400,
+        "resourceOutput": 150,
+        "upkeep": 60,
+        "structures": ["Trade Port", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Aeten II",
+        "creditsOutput": 300,
+        "resourceOutput": 400,
+        "upkeep": 50,
+        "structures": ["Mine", "Garrison"]
+    },
+    {
+        "name": "Alderaan",
+        "creditsOutput": 900,
+        "resourceOutput": 100,
+        "upkeep": 110,
+        "structures": ["Civilian Center", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Alzoc III",
+        "creditsOutput": 450,
+        "resourceOutput": 200,
+        "upkeep": 70,
+        "structures": ["Mine", "Barracks"]
+    },
+    {
+        "name": "Anaxes",
+        "creditsOutput": 750,
+        "resourceOutput": 200,
+        "upkeep": 100,
+        "structures": ["Naval Academy", "Barracks"]
+    },
+    {
+        "name": "Atzerri",
+        "creditsOutput": 500,
+        "resourceOutput": 150,
+        "upkeep": 60,
+        "structures": ["Trade Hub", "Cantina"]
+    },
+    {
+        "name": "Bespin",
+        "creditsOutput": 800,
+        "resourceOutput": 600,
+        "upkeep": 90,
+        "structures": ["Gas Mine", "Refinery"]
+    },
+    {
+        "name": "Bestine",
+        "creditsOutput": 500,
+        "resourceOutput": 200,
+        "upkeep": 70,
+        "structures": ["Military Outpost", "Barracks"]
+    },
+    {
+        "name": "Bonadan",
+        "creditsOutput": 600,
+        "resourceOutput": 250,
+        "upkeep": 90,
+        "structures": ["Trade Hub", "Starport"]
+    },
+    {
+        "name": "Bothawui",
+        "creditsOutput": 700,
+        "resourceOutput": 200,
+        "upkeep": 80,
+        "structures": ["Spy Network", "Trade Port"]
+    },
+    {
+        "name": "Byss",
+        "creditsOutput": 800,
+        "resourceOutput": 400,
+        "upkeep": 120,
+        "structures": ["Dark Side Nexus", "Capital Shipyard"]
+    },
+    {
+        "name": "Carida",
+        "creditsOutput": 600,
+        "resourceOutput": 250,
+        "upkeep": 80,
+        "structures": ["Military Academy", "Barracks"]
+    },
+    {
+        "name": "Corellia",
+        "creditsOutput": 1000,
+        "resourceOutput": 300,
+        "upkeep": 120,
+        "structures": ["Shipyard", "Barracks"]
+    },
+    {
+        "name": "Corulag",
+        "creditsOutput": 700,
+        "resourceOutput": 200,
+        "upkeep": 90,
+        "structures": ["Training Center", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Coruscant",
+        "creditsOutput": 1500,
+        "resourceOutput": 200,
+        "upkeep": 150,
+        "structures": ["Imperial Palace", "Barracks", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Dagobah",
+        "creditsOutput": 100,
+        "resourceOutput": 50,
+        "upkeep": 10,
+        "structures": []
+    },
+    {
+        "name": "Dantooine",
+        "creditsOutput": 350,
+        "resourceOutput": 150,
+        "upkeep": 40,
+        "structures": ["Farms", "Rebel Outpost"]
+    },
+    {
+        "name": "Dathomir",
+        "creditsOutput": 300,
+        "resourceOutput": 250,
+        "upkeep": 40,
+        "structures": ["Witches’ Fortress", "Mine"]
+    },
+    {
+        "name": "Endor",
+        "creditsOutput": 200,
+        "resourceOutput": 100,
+        "upkeep": 20,
+        "structures": ["Shield Generator", "Ewok Village"]
+    },
+    {
+        "name": "Eriadu",
+        "creditsOutput": 950,
+        "resourceOutput": 300,
+        "upkeep": 120,
+        "structures": ["Heavy Vehicle Factory", "Governor’s Palace"]
+    },
+    {
+        "name": "Fondor",
+        "creditsOutput": 1000,
+        "resourceOutput": 500,
+        "upkeep": 130,
+        "structures": ["Shipyard", "Heavy Factory"]
+    },
+    {
+        "name": "Fresia",
+        "creditsOutput": 400,
+        "resourceOutput": 150,
+        "upkeep": 50,
+        "structures": ["Incom Headquarters", "Barracks"]
+    },
+    {
+        "name": "Geonosis",
+        "creditsOutput": 600,
+        "resourceOutput": 400,
+        "upkeep": 70,
+        "structures": ["Droid Foundry", "Mine"]
+    },
+    {
+        "name": "Hoth",
+        "creditsOutput": 150,
+        "resourceOutput": 50,
+        "upkeep": 15,
+        "structures": ["Rebel Base", "Shield Generator"]
+    },
+    {
+        "name": "Honoghr",
+        "creditsOutput": 250,
+        "resourceOutput": 100,
+        "upkeep": 30,
+        "structures": ["Noghri Village", "Mine"]
+    },
+    {
+        "name": "Hypori",
+        "creditsOutput": 350,
+        "resourceOutput": 300,
+        "upkeep": 40,
+        "structures": ["Droid Factory", "Mine"]
+    },
+    {
+        "name": "Ilum",
+        "creditsOutput": 200,
+        "resourceOutput": 400,
+        "upkeep": 30,
+        "structures": ["Crystal Mine", "Temple Ruins"]
+    },
+    {
+        "name": "Jabiim",
+        "creditsOutput": 300,
+        "resourceOutput": 250,
+        "upkeep": 40,
+        "structures": ["Mine", "Refinery"]
+    },
+    {
+        "name": "Kamino",
+        "creditsOutput": 700,
+        "resourceOutput": 250,
+        "upkeep": 80,
+        "structures": ["Cloning Facility", "Barracks"]
+    },
+    {
+        "name": "Kashyyyk",
+        "creditsOutput": 500,
+        "resourceOutput": 200,
+        "upkeep": 70,
+        "structures": ["Wookiee Village", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Kessel",
+        "creditsOutput": 800,
+        "resourceOutput": 600,
+        "upkeep": 75,
+        "structures": ["Mine", "Prison Complex"]
+    },
+    {
+        "name": "Korriban",
+        "creditsOutput": 200,
+        "resourceOutput": 300,
+        "upkeep": 20,
+        "structures": ["Sith Academy", "Tombs"]
+    },
+    {
+        "name": "Kuat",
+        "creditsOutput": 1200,
+        "resourceOutput": 500,
+        "upkeep": 150,
+        "structures": ["Capital Shipyard", "Research Facility"]
+    },
+    {
+        "name": "Manaan",
+        "creditsOutput": 450,
+        "resourceOutput": 200,
+        "upkeep": 60,
+        "structures": ["Kolto Refinery", "Trade Hub"]
+    },
+    {
+        "name": "Mandalore",
+        "creditsOutput": 600,
+        "resourceOutput": 300,
+        "upkeep": 80,
+        "structures": ["Warrior Enclave", "Mine"]
+    },
+    {
+        "name": "Mon Calamari",
+        "creditsOutput": 1000,
+        "resourceOutput": 400,
+        "upkeep": 120,
+        "structures": ["Shipyard", "Civilian Center"]
+    },
+    {
+        "name": "Mustafar",
+        "creditsOutput": 500,
+        "resourceOutput": 500,
+        "upkeep": 80,
+        "structures": ["Mining Facility", "Refinery"]
+    },
+    {
+        "name": "Naboo",
+        "creditsOutput": 700,
+        "resourceOutput": 200,
+        "upkeep": 100,
+        "structures": ["Royal Palace", "Civilian Center"]
+    },
+    {
+        "name": "Nal Hutta",
+        "creditsOutput": 600,
+        "resourceOutput": 300,
+        "upkeep": 70,
+        "structures": ["Hutt Palace", "Cantina"]
+    },
+    {
+        "name": "Polus",
+        "creditsOutput": 300,
+        "resourceOutput": 150,
+        "upkeep": 40,
+        "structures": ["Outpost", "Mine"]
+    },
+    {
+        "name": "Ryloth",
+        "creditsOutput": 400,
+        "resourceOutput": 250,
+        "upkeep": 50,
+        "structures": ["Slave Quarters", "Mine"]
+    },
+    {
+        "name": "Saleucami",
+        "creditsOutput": 350,
+        "resourceOutput": 200,
+        "upkeep": 40,
+        "structures": ["Refinery", "Mine"]
+    },
+    {
+        "name": "Shola",
+        "creditsOutput": 250,
+        "resourceOutput": 200,
+        "upkeep": 30,
+        "structures": ["Volcano Mine", "Outpost"]
+    },
+    {
+        "name": "Sullust",
+        "creditsOutput": 700,
+        "resourceOutput": 400,
+        "upkeep": 90,
+        "structures": ["Refinery", "Factory"]
+    },
+    {
+        "name": "Taris",
+        "creditsOutput": 500,
+        "resourceOutput": 200,
+        "upkeep": 80,
+        "structures": ["Urban District", "Cantina"]
+    },
+    {
+        "name": "Tatooine",
+        "creditsOutput": 400,
+        "resourceOutput": 100,
+        "upkeep": 50,
+        "structures": ["Cantina", "Light Vehicle Factory"]
+    },
+    {
+        "name": "Thyferra",
+        "creditsOutput": 600,
+        "resourceOutput": 400,
+        "upkeep": 70,
+        "structures": ["Bacta Refinery", "Trade Port"]
+    },
+    {
+        "name": "Vergesso Asteroids",
+        "creditsOutput": 300,
+        "resourceOutput": 350,
+        "upkeep": 20,
+        "structures": ["Asteroid Mine", "Smuggler’s Den"]
+    },
+    {
+        "name": "Wayland",
+        "creditsOutput": 500,
+        "resourceOutput": 300,
+        "upkeep": 70,
+        "structures": ["Mount Tantiss", "Garrison"]
+    },
+    {
+        "name": "Yavin",
+        "creditsOutput": 250,
+        "resourceOutput": 150,
+        "upkeep": 30,
+        "structures": ["Rebel Base", "Temple Ruins"]
+    }
+]
