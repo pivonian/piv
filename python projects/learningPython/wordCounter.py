@@ -1,1 +1,0 @@
-print(f"There are {len(t := input('Input text: '))} characters across {len(t.split())} words in the text")
